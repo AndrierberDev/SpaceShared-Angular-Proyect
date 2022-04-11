@@ -1,0 +1,9 @@
+.Section-All-Chat{
+  float: right;
+  border: #000 solid 2px;
+  border-radius: 25px;
+  width: 300px;
+  height: 565px;
+  position: fixed;
+  margin: 68px 0px 0px 12px;
+}

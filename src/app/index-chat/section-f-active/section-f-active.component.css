@@ -1,0 +1,9 @@
+.Section-F-active{
+  float: right;
+  border: #000 solid 2px;
+  border-radius: 25px;
+  width: 300px;
+  height: 565px;
+  position: fixed;
+  margin: 69px -13px -96px 1055px;
+}

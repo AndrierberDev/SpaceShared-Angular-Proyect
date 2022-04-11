@@ -1,0 +1,42 @@
+.section-Profile{
+  border: #000 solid 2px;
+  width: 450px;
+  height: 300px;
+  position: fixed;
+  border-radius: 30px;
+  margin: 69px 0px 0px 22px;
+}
+
+.Photo-Screen{
+  border-bottom: #000 solid 1px;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+}
+
+.Photo-Profile{
+  border: #000 solid 1px;
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  margin: 29px 13px 0px 8px;
+}
+
+.div-Btn-Edit-Profile{
+
+}
+
+.Btn-Edit-Profile{
+  outline: none;
+  background: transparent;
+  border: #000 2px solid;
+  border-radius: 30px;
+  height: 30px;
+  width: 100px;
+  margin: 110px 0px 0px 338px;
+}
+
+.img-btn-Edit-Profile{
+  width: 20px;
+  height: 20px;
+}

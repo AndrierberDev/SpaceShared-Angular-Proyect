@@ -1,0 +1,55 @@
+*{
+  font-family: 'Roboto Slab', serif;
+}
+
+.Sign-Up-Container{
+  border: #000 solid 2px;
+  width: 561px;
+  height: 535px;
+  border-radius: 30px;
+  margin-top: 30px;
+  padding-top: 10px;
+  margin-left: 400px;
+  padding-left: 7px;
+}
+.Logo{
+  align-items: center;
+  text-align: center;
+}
+.Title{
+ text-align: center;
+}
+
+input{
+outline: none;
+ background: transparent;
+ border: transparent;
+ width: 100%;
+ padding: 3px 20px;;
+}
+
+h6{
+  margin-left:15px;
+}
+
+.div-Name,
+.div-LastName,
+.div-Email,
+.div-Email-Confirmacion,
+.div-Password,
+.div-Password-Confirmacion,
+.div-Date{
+  border: #000 solid 2px;
+  border-radius: 25px;
+  width: 261px;
+  height: 35px;
+  margin: 5px
+}
+
+.btn-SignUp{
+  border: #000 solid 2px;
+  border-radius: 25px;
+  width: 250px;
+  height: 40px;
+  margin: 22px 140px 0px 138px;
+}

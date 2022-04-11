@@ -1,0 +1,16 @@
+.Right-Friends{
+	width: 225px;
+	height: 100%;
+}
+
+.Btn-Hide-More{
+  outline: none;
+  background: transparent;
+  border: transparent;
+  padding: 0;
+  margin: 7px 0px 0px 85px;
+}
+
+.title-Friends{
+	margin: 7px 0px 0px 6px;
+}

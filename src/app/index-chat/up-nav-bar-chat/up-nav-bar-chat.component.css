@@ -1,0 +1,72 @@
+.nav-up-bar{
+  width: 100%;
+  height: 60px;
+  position: absolute;
+}
+
+/*Barra de busqueda*/
+.Input-Search{
+  border: #000 2px solid;
+ border-radius: 30px;
+ width: 240px;
+ height: 50px;
+margin: 5px 2px 0px 17px;
+}
+
+.Search{
+  border: transparent;
+ padding: 10px 20px;
+ outline: transparent;
+ height: 40px;
+ background: transparent;
+ border-color: black;
+ width: 180px
+}
+
+.img-search{
+  width: 40px;
+   height: 30px;
+}
+
+.btn-search{
+  outline: none;
+  background: transparent;
+  border: transparent;
+}
+/*****************************/
+.Btn-My-Home,
+.btn-Group,
+.Btn-Config,
+.Btn-Exit{
+  outline: none;
+  background: transparent;
+  border: #000 2px solid;
+  border-radius: 30px;
+  height: 50px;
+  margin: 5px 14px 0px 21px;
+}
+
+.Btn-My-Profile{
+  margin: 5px 5px 0px 0px;
+  outline: none;
+  background: transparent;
+  border: #000 2px solid;
+  border-radius: 30px;
+  height: 50px;
+}
+
+.img-Home,
+.img-Group,
+.img-Profile,
+.img-Config,
+.img-Exit{
+  width: 40px;
+   height: 30px;
+}
+
+
+.Logo-img{
+  height: 70px;
+  width: 300px;
+  margin: 0px 50px 0px 50px
+}

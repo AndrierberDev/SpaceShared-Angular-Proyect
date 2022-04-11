@@ -1,0 +1,29 @@
+.section-account{
+    width: 100%;
+    height: 40%;
+    position: absolute;
+    border-bottom: #000 solid 2px;
+}
+
+.Photo-Screen{
+  border-bottom: #000 solid 1px;
+  position: absolute;
+  width: 100%;
+  height: 80px;
+}
+
+.Photo-Profile{
+  border: #000 solid 1px;
+  border-radius: 100%;
+  width: 80px;
+  height: 80px;
+  margin: 29px 13px 0px 8px;
+}
+
+.Name-Lastname{
+  margin: 52px 0px 0px 79px;
+}
+
+.Lastname{
+  margin-left: 8px;
+}

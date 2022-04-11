@@ -1,0 +1,25 @@
+.Section-F-Conected{
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  border-bottom: #000 solid 2px;
+}
+
+.Friends-Conected{
+   margin: 7px 0px 0px 6px;
+}
+
+.img-poin-connected{
+  width: 16px;
+  height: 16px;
+
+}
+
+.div-Count-Connected{
+  padding: 0px 0px 0px 0px;
+ margin: 2px 0px 0px 92px;
+
+}
+.count-connected{
+  margin: -2px 0px 0px 3px;
+}

@@ -1,0 +1,47 @@
+*{
+  font-family: 'Roboto Slab', serif;
+}
+
+.left-Info{
+  width: 50%;
+  height: 100%;
+  float: right;
+  padding-left: 10px;
+  position: fixed;
+  margin-left: 685px;
+  background: #000;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+  color: #F2F2F6
+}
+
+.Section-Acounts{
+  margin: 20px;
+  height: 300px;
+  border-radius: 30px;
+}
+
+.btn-signup{
+  border: #D18011 solid 2px;
+  border-radius: 30px;
+  height: 50px;
+  width: 150px;
+
+}
+
+@media (max-width: 700px){
+  .left-Info{
+    width: 100%;
+      height: 100%;
+      float: inherit;
+      padding-left: 10px;
+      position: absolute;
+      margin-top: 760px;
+      margin-left: 0;
+  }
+}

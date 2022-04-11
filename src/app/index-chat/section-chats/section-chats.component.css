@@ -1,0 +1,54 @@
+.Section-Chat-Div{
+  border: #000 solid 2px;
+  border-radius: 10px;
+  width: 600px;
+  height: 565px;
+  position: absolute;
+  margin: 68px 0px 0px 385px;
+}
+/*Division de Informacion*/
+.Div-Info-Friend{
+  width: 100%;
+  height: 10%;
+  border-bottom: #000 solid 1px;
+}
+
+.Photo{
+  border: #000 solid 1px;
+  border-radius: 100%;
+  height: 45px;
+  width: 45px;
+  margin: 5px 0px 0px 5px;
+}
+
+.Name-Lastname{
+  width: 350px;
+  height: 10px;
+  margin: 15px 0px 0px 6px;
+}
+
+.btn-Info-Friend{
+  outline: none;
+  background: transparent;
+  border: transparent;
+}
+
+.img-Info-Friend{
+  height: 35px;
+  width: 35px;
+  margin: 10px 0px 0px 135px;
+}
+/************************************/
+
+.Section-Chat{
+  width: 100%;
+  height: 75%;
+}
+
+.Div-Input-Chat{
+  width: 100%;
+  height: 10%;
+  border-top: #000 solid 1px;
+}
+
+
