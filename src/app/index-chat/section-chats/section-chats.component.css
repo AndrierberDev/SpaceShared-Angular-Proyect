@@ -51,4 +51,24 @@
   border-top: #000 solid 1px;
 }
 
+.Div-Chat-Send{
+  border: #000 solid 2px;
+  border-radius: 25px;
+  width: 480px;
+  height: 70px;
+  margin: 6px 0px 0px 10px;
+}
+
+.Chat-text{
+  outline: none;
+  background: transparent;
+  width: 80%;
+  height: 30px;
+  margin: 3px 0px 0px 15px;
+}
+
+.Chat-text:hover{
+  height: 60px;
+}
+
 
